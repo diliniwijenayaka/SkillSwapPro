@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SpecflowPages",
+    "\\SpecflowPages\\Utils",
+    "\\SpecflowTests",
+    "\\SpecflowTests\\AcceptanceTest",
+    "\\SpecflowTests\\SpecflowFeatures",
+    "\\SpecflowTests\\StepDefinitions"
+  ],
+  "SelectedNode": "\\SpecflowPages",
+  "PreviewInSolutionExplorer": false
+}
